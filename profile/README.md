@@ -18,7 +18,7 @@ Nesse repositório você encontrará:
 - Materiais de apoio
 - Exercícios e projetos
 - Exemplos de código
-- Orientações para submissão de atividades
+- Orientações para submissão de atividades [(para professores)](https://github.com/lp-cefetmg/instrucoes)
 
 ## 🚀 Como participar
 - Acesse os repositórios fixados para acompanhar os projetos da disciplina.
